@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stardust</title>
+</head>
+<body>
+    <header class="project-header">
+
+        <div class="celestial-icon">*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚</div>
+
+        <h1>stardust</h1>
+
+        <p>Gesture-controlled particle system — Hazellenuts</p>
+
+    </header>
+
+    <div class="dashboard">
+      <div class="particle-panel">
+
+          <h2>Particle View</h2>
+          <div id="particle-container"></div>
+
+      </div>
+      <div class="tracking-panel">
+
+          <h2>Hand Tracking</h2>
+
+          <select id="camera-select">
+              <option value="">Default Camera</option>
+          </select>
+
+          <button id="start-camera">Start Camera</button>
+
+          <div class="camera-container">
+              <video id="webcam" autoplay playsinline muted></video>
+              <canvas id="hand-canvas"></canvas>
+          </div>
+
+          <p id="status">Camera is inactive</p>
+
+      </div>
+    </div>
+    
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>

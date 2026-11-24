@@ -37,7 +37,7 @@ Gestures are listed in **left hand — right hand** order.
 | 3️⃣ | ✋ | Elastic pull & particle trail |
 | ✊ | ✊ | Energy charge |
 | ✋ | ✋ | Expand / reset fast rotation |
-| ✊✊ → ✋✋ | Both hands | Supernova burst |
+| ✊✊ → ✋✋ |  | Supernova burst |
 
 - **Manual rotation:** Move your left index finger to rotate the particles.
 
@@ -88,6 +88,6 @@ For the best experience, use a desktop or laptop with a webcam and good lighting
 
 <div align="center">
 
-Made with curiosity and a little stardust by **Hazellenuts**. ✦
+love, **Hazellenuts**. ✦
 
 </div>
